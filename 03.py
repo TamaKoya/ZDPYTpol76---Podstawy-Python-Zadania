@@ -1,0 +1,5 @@
+print("Bingus")
+print(2137)
+print(123.456)
+print(True)
+print(None)
